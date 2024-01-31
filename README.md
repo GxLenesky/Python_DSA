@@ -1,3 +1,3 @@
 # Python DSA
 
-Test
+Just some personal studying notes :))
